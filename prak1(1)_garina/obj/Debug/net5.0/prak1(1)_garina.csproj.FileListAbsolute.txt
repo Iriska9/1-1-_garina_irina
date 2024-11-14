@@ -1,0 +1,16 @@
+C:\Users\Irina\source\repos\prak1(1)_garina\bin\Debug\net5.0\prak1(1)_garina.exe
+C:\Users\Irina\source\repos\prak1(1)_garina\bin\Debug\net5.0\prak1(1)_garina.deps.json
+C:\Users\Irina\source\repos\prak1(1)_garina\bin\Debug\net5.0\prak1(1)_garina.runtimeconfig.json
+C:\Users\Irina\source\repos\prak1(1)_garina\bin\Debug\net5.0\prak1(1)_garina.runtimeconfig.dev.json
+C:\Users\Irina\source\repos\prak1(1)_garina\bin\Debug\net5.0\prak1(1)_garina.dll
+C:\Users\Irina\source\repos\prak1(1)_garina\bin\Debug\net5.0\ref\prak1(1)_garina.dll
+C:\Users\Irina\source\repos\prak1(1)_garina\bin\Debug\net5.0\prak1(1)_garina.pdb
+C:\Users\Irina\source\repos\prak1(1)_garina\obj\Debug\net5.0\prak1(1)_garina.csproj.AssemblyReference.cache
+C:\Users\Irina\source\repos\prak1(1)_garina\obj\Debug\net5.0\prak1(1)_garina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irina\source\repos\prak1(1)_garina\obj\Debug\net5.0\prak1(1)_garina.AssemblyInfoInputs.cache
+C:\Users\Irina\source\repos\prak1(1)_garina\obj\Debug\net5.0\prak1(1)_garina.AssemblyInfo.cs
+C:\Users\Irina\source\repos\prak1(1)_garina\obj\Debug\net5.0\prak1(1)_garina.csproj.CoreCompileInputs.cache
+C:\Users\Irina\source\repos\prak1(1)_garina\obj\Debug\net5.0\prak1(1)_garina.dll
+C:\Users\Irina\source\repos\prak1(1)_garina\obj\Debug\net5.0\ref\prak1(1)_garina.dll
+C:\Users\Irina\source\repos\prak1(1)_garina\obj\Debug\net5.0\prak1(1)_garina.pdb
+C:\Users\Irina\source\repos\prak1(1)_garina\obj\Debug\net5.0\prak1(1)_garina.genruntimeconfig.cache
